@@ -38,16 +38,4 @@ public class studentdet {
     }
 }
 
-	OUTPUT
-################################
-C:\Users\HP\Desktop\java>javac studentdet.java
-
-C:\Users\HP\Desktop\java>java studentdet
-Enter marks out of 20:
-11
-Details of students are:
-Name:SOYA
-Roll number:1
-Class Name:MCA
-Academic Mark:50
-Sports Mark:11
+	
